@@ -4,7 +4,7 @@ You can get started here:https://developer.microsoft.com/en-us/graph
 
 There is a lot of important information about setting up certificate based access and the security permissions you need to access certain calls.  
 
-This is just some a collection of some of the scripts I use to gather information about the tenent.
+This is just some a collection of some of the scripts I use to gather information about the tenant.
 
 
 
