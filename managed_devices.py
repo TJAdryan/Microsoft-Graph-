@@ -105,6 +105,8 @@ filtered = filtered[['id', 'userId','last_sync_date', 'deviceName', 'managedDevi
 print(filtered.shape)
 filtered['osVersion'].value_counts()
 
+
+#translate os versions to build names
 #Windows 10.0.22 or higher is Windows 11, below 10.
 #Mac so many versions...
 def identify_os_version(os_version):
@@ -131,7 +133,7 @@ os_versions = filtered[['id', 'userId','last_sync_date', 'deviceName', 'managedD
  'serialNumber','userDisplayName','wiFiMacAddress']]
 #os_versions = os_versions[~os_versions['model'].str.contains('Microsoft Dev Box')]
 
-
+#localsql connection
 connection_url = URL.create(
     "mssql+pyodbc",
     username="SQLUser",
