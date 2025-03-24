@@ -199,6 +199,6 @@ LoopyLlama@*****.com       28
 EccentricElephant@*****.com 17
 SillyGoose@*****.com        9
 
-# you can identify sites that have not been modified in over 10 years, which can be a good indicator that the files/sites are good candidates for achiving
+# you can identify sites that have not been modified in over 10 years, which can be a good indicator that the files/sites are good candidates for archiving
 
 
