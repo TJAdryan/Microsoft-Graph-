@@ -7,6 +7,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 from sqlalchemy.engine import URL
 from dotenv import load_dotenv,find_dotenv
+##needs confirmation both usage report and individual licenses are being used to get license details
 
 
 load_dotenv(find_dotenv("C:/Python_Scripts/N-Able/.env"))
