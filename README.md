@@ -8,3 +8,7 @@ This is just some a collection of some of the scripts I use to gather informatio
 
 
 
+Here are some good resources:
+https://learn.microsoft.com/en-us/graph/tutorials/python
+https://en.fme.de/blog/microsoft-graph-api-a-practical-example-in-python/
+https://developer.microsoft.com/en-us/graph/quick-start
