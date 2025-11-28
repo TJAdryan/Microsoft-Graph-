@@ -1,7 +1,7 @@
 # ==================================================================================
 # SCRIPT: Generate Site Access Matrix (Fixed for Null URLs)
 # ==================================================================================
-
+#To be used with list of sites
 # --- 1. CONFIGURATION ---
 $envPath = "C:\Python_Scripts\N-Able\.env"
 $InputExcel = "C:\Python_Scripts\api_calls\JRCo_data\reports\Sites_For_Permissioning_REVIEW.xlsx"
