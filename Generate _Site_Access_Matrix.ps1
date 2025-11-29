@@ -1,7 +1,10 @@
 # ==================================================================================
 # SCRIPT: Generate Site Access Matrix (Fixed for Null URLs)
 # ==================================================================================
-#To be used with list of sites
+#To be used with list of sites- Get access level
+
+
+
 # --- 1. CONFIGURATION ---
 $envPath = "C:\Python_Scripts\N-Able\.env"
 $InputExcel = "C:\Python_Scripts\api_calls\JRCo_data\reports\Sites_For_Permissioning_REVIEW.xlsx"
@@ -18,7 +21,7 @@ if (Test-Path $envPath) {
 
 $clientId = $env:clientId_jrco_cert
 $thumbprint = $env:thumbprint_jrco
-$tenantName = "rosecommunity.com"
+$tenantName = ""
 
 # Check modules
 if (-not (Get-Module -ListAvailable -Name ImportExcel)) { Write-Error "Install-Module ImportExcel required"; exit }
