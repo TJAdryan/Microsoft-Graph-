@@ -7,6 +7,7 @@ import io
 from time import sleep
 
 ##updated 6/11/2024
+#needs permissions Sites.Read.All Reports.Read.All
 
 client_id = 'update_this'
 tenant_id = 'update_this'
