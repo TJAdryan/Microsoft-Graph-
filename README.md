@@ -10,6 +10,8 @@ This is just some a collection of some of the scripts I use to gather to collect
 
 
 Here are some good resources:
+
+[https://learn.microsoft.com › Learn › Microsoft Graph](https://www.google.com/search?q=graph+updates&rlz=1C5CHFA_enUS983US983&oq=graph+updates&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yDQgIEAAYhgMYgAQYigUyCggJEAAYogQYiQXSAQgzNDE3ajBqN6gCCLACAfEF0Gp0GgIbdJM&sourceid=chrome&ie=UTF-8)
 https://learn.microsoft.com/en-us/graph/tutorials/python
 https://en.fme.de/blog/microsoft-graph-api-a-practical-example-in-python/
 https://developer.microsoft.com/en-us/graph/quick-start
